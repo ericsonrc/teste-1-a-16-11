@@ -1,14 +1,14 @@
 body {
 }
-#banner {
-width:10%;
+###banner {
+width:80%;
 }
 .principal{
 background: #5c98dd;
 padding: 30px;
 }
 .titulo-principal {
-padding-left: 20px;
+padding-left: 50px;
 }
 .titulo-centralizado {
 text-align: center
@@ -17,7 +17,7 @@ p {
 text-align: center;
 }
 #missao {
-font-size: 20px
+font-size: 30px
 }
 em strong {
 color: #94e8ee;
